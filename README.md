@@ -1,2 +1,2 @@
-# GIT-LinuxMint
+# RetroGames
 Instalação do GIT no LinuxMint
