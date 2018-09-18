@@ -1,2 +1,2 @@
 # RetroGames
-Instalação do GIT no LinuxMint
+Retro PIE ou Retro ARCH
